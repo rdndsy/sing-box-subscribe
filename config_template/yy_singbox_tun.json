@@ -114,7 +114,7 @@
           "OracleSAN",
           "Others"
         ],
-        "default": "America"
+        "default": "googleGCP"
       },
       {
         "tag":"Google",
@@ -212,7 +212,7 @@
           "OracleSAN",
           "Others"
         ],
-        "default": "America"
+        "default": "OracleSAN"
       },
       {
         "tag":"TikTok",
@@ -224,7 +224,7 @@
           "Japan",
           "America"
         ],
-        "default": "Japan"
+        "default": "OracleSAN"
       },
       {
         "tag":"Netflix",
@@ -240,7 +240,8 @@
           "OraclePho",
           "OracleSAN",
           "Others"
-        ]
+        ],
+        "default": "OracleSAN"
       },
       {
         "tag":"Disney+",
@@ -256,7 +257,8 @@
           "OraclePho",
           "OracleSAN",
           "Others"
-        ]
+        ],
+        "default": "OracleSAN"
       },
       {
         "tag":"Apple",
@@ -273,7 +275,8 @@
           "OraclePho",
           "OracleSAN",
           "Others"
-        ]
+        ],
+        "default": "direct"
       },
       {
         "tag":"Microsoft",
@@ -290,7 +293,8 @@
           "OraclePho",
           "OracleSAN",
           "Others"
-        ]
+        ],
+        "default": "direct"
       },
       {
         "tag":"Games",
