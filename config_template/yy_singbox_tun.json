@@ -105,9 +105,13 @@
         "type":"selector",
         "outbounds":[
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ],
         "default": "America"
@@ -118,9 +122,13 @@
         "outbounds":[
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -130,9 +138,13 @@
         "outbounds":[
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -142,9 +154,13 @@
         "outbounds":[
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -154,9 +170,13 @@
         "outbounds":[
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -183,9 +203,13 @@
         "outbounds":[
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ],
         "default": "America"
@@ -208,9 +232,13 @@
         "outbounds":[
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -220,9 +248,13 @@
         "outbounds":[
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -233,9 +265,13 @@
           "direct",
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -246,9 +282,13 @@
           "direct",
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -259,9 +299,13 @@
           "direct",
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -271,9 +315,18 @@
         "outbounds":[
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others"
         ]
       },
@@ -283,9 +336,13 @@
         "outbounds":[ 
           "HongKong",
           "TaiWan",
-          "Singapore",
           "Japan",
           "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
           "Others",
           "direct"
         ]
