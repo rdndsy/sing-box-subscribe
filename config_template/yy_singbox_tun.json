@@ -222,7 +222,13 @@
           "TaiWan",
           "Singapore",
           "Japan",
-          "America"
+          "America",
+          "googleGCP",
+          "OracleChu",
+          "OracleSG",
+          "OraclePho",
+          "OracleSAN",
+          "Others"
         ],
         "default": "OracleSAN"
       },
