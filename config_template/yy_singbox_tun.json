@@ -130,7 +130,8 @@
           "OraclePho",
           "OracleSAN",
           "Others"
-        ]
+        ],
+        "default": "OraclePho"
       },
       {
         "tag":"Telegram",
@@ -146,7 +147,8 @@
           "OraclePho",
           "OracleSAN",
           "Others"
-        ]
+        ],
+        "default": "OraclePho"
       },
       {
         "tag":"Twitter",
@@ -162,7 +164,8 @@
           "OraclePho",
           "OracleSAN",
           "Others"
-        ]
+        ],
+        "default": "OraclePho"
       },
       {
         "tag":"Facebook",
@@ -178,7 +181,8 @@
           "OraclePho",
           "OracleSAN",
           "Others"
-        ]
+        ],
+        "default": "OraclePho"
       },
       {
         "tag":"BiliBili",
@@ -187,7 +191,8 @@
           "direct",
           "HongKong",
           "TaiWan"
-        ]
+        ],
+        "default": "direct"
       },
       {
         "tag":"Bahamut",
@@ -212,7 +217,7 @@
           "OracleSAN",
           "Others"
         ],
-        "default": "OracleSAN"
+        "default": "OraclePho"
       },
       {
         "tag":"TikTok",
@@ -230,7 +235,7 @@
           "OracleSAN",
           "Others"
         ],
-        "default": "OracleSAN"
+        "default": "OraclePho"
       },
       {
         "tag":"Netflix",
@@ -247,7 +252,7 @@
           "OracleSAN",
           "Others"
         ],
-        "default": "OracleSAN"
+        "default": "OraclePho"
       },
       {
         "tag":"Disney+",
@@ -264,7 +269,7 @@
           "OracleSAN",
           "Others"
         ],
-        "default": "OracleSAN"
+        "default": "OraclePho"
       },
       {
         "tag":"Apple",
@@ -317,7 +322,8 @@
           "OraclePho",
           "OracleSAN",
           "Others"
-        ]
+        ],
+        "default": "direct"
       },
       {
         "tag":"Streaming",
@@ -355,7 +361,8 @@
           "OracleSAN",
           "Others",
           "direct"
-        ]
+        ],
+        "default": "OraclePho"
       },
       {
         "tag":"China",
@@ -363,7 +370,8 @@
         "outbounds":[
           "direct",
           "Proxy"
-        ]
+        ],
+        "default": "direct"
       },
       {
         "tag":"AdBlock",
@@ -371,7 +379,8 @@
         "outbounds":[
           "block",
           "direct"
-        ]
+        ],
+        "default": "block"
       },
       {
         "tag":"HongKong",
