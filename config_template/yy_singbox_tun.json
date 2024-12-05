@@ -1,3 +1,4 @@
+
 {
     "log": {
       "level": "info",
@@ -104,9 +105,6 @@
         "tag":"OpenAI",
         "type":"selector",
         "outbounds":[
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -120,10 +118,6 @@
         "tag":"Google",
         "type":"selector",
         "outbounds":[
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -137,10 +131,6 @@
         "tag":"Telegram",
         "type":"selector",
         "outbounds":[
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -154,10 +144,6 @@
         "tag":"Twitter",
         "type":"selector",
         "outbounds":[
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -171,10 +157,6 @@
         "tag":"Facebook",
         "type":"selector",
         "outbounds":[
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -206,10 +188,6 @@
         "tag":"Spotify",
         "type":"selector",
         "outbounds":[
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -223,11 +201,6 @@
         "tag":"TikTok",
         "type":"selector",
         "outbounds":[
-          "HongKong",
-          "TaiWan",
-          "Singapore",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -241,10 +214,6 @@
         "tag":"Netflix",
         "type":"selector",
         "outbounds":[
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -258,10 +227,6 @@
         "tag":"Disney+",
         "type":"selector",
         "outbounds":[
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -276,10 +241,6 @@
         "type":"selector",
         "outbounds":[
           "direct",
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -294,10 +255,6 @@
         "type":"selector",
         "outbounds":[
           "direct",
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -312,10 +269,6 @@
         "type":"selector",
         "outbounds":[
           "direct",
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -329,15 +282,7 @@
         "tag":"Streaming",
         "type":"selector",
         "outbounds":[
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
-          "googleGCP",
-          "OracleChu",
-          "OracleSG",
-          "OraclePho",
-          "OracleSAN",
+		  "direct",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -350,10 +295,6 @@
         "tag":"Global",
         "type":"selector",
         "outbounds":[ 
-          "HongKong",
-          "TaiWan",
-          "Japan",
-          "America",
           "googleGCP",
           "OracleChu",
           "OracleSG",
@@ -362,7 +303,7 @@
           "Others",
           "direct"
         ],
-        "default": "OraclePho"
+        "default": "direct"
       },
       {
         "tag":"China",
