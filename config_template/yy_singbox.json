@@ -83,7 +83,8 @@
     {
       "outbounds": [
         "auto",
-        "direct"
+        "direct",
+		"{all}"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -93,6 +94,9 @@
       "tag": "auto",
       "tolerance": 50,
       "type": "urltest",
+	  "outbounds":[
+          "{all}"
+        ],
       "url": "http://www.gstatic.com/generate_204"
     },
     {
