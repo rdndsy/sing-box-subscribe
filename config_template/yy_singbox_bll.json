@@ -106,15 +106,6 @@
     ],
     "outbounds": [
         {
-        "outbounds": [
-            "auto",
-            "direct",
-            "{all}"
-        ],
-        "tag": "proxy",
-        "type": "selector"
-        },
-        {
         "interval": "10m",
         "tag": "auto",
         "tolerance": 50,
