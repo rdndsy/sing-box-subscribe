@@ -118,11 +118,14 @@
         "tag": "dns-out"
       },
       {
-        "type": "urltest",
+        "interval": "10m",
         "tag": "自动选择",
-        "outbounds": [
-
-        ]
+        "tolerance": 50,
+        "type": "urltest",
+        "outbounds":[
+            "{all}"
+          ],
+        "url": "http://www.gstatic.com/generate_204"
       },
       {
         "type": "selector",
