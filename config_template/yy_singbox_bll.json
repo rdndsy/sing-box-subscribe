@@ -141,7 +141,10 @@
         "type": "selector",
         "tag": "GLOBAL",
         "outbounds": [
-          "direct-out"
+          "direct-out",
+          "block-out",
+          "自动选择",
+          "手动选择"
         ],
         "default": "手动选择"
       }
