@@ -99,7 +99,7 @@
         "tag": "tproxy-in",
         "listen": "::",
         "listen_port": 5332,
-        "network": "udp",
+        "network": "udp",ml,
         "sniff": true,
         "sniff_override_destination": false
       }
@@ -112,7 +112,8 @@
             "auto",
             "direct",
             "{all}"
-        ]
+        ],
+        "default": "auto"
         },
         {
         "interval": "10m",
