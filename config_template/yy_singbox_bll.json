@@ -140,7 +140,8 @@
       "tag": "GLOBAL",
       "outbounds": [
         "direct-out",
-        "hongkong"
+        "hongkong",
+        "malsel"
       ],
       "default": "malsel"
     },
