@@ -119,34 +119,34 @@
     },
     {
       "type": "urltest",
-      "tag": "自动选择",
+      "tag": "auto",
       "outbounds": [
-        "香港"
+        "hongkong"
       ]
     },
     {
       "type": "selector",
-      "tag": "手动选择",
+      "tag": "malsel",
       "outbounds": [
         "direct-out",
         "block-out",
-        "自动选择",
-        "香港"
+        "auto",
+        "hongkong"
       ],
-      "default": "自动选择"
+      "default": "auto"
     },
     {
       "type": "selector",
       "tag": "GLOBAL",
       "outbounds": [
         "direct-out",
-        "香港"
+        "hongkong"
       ],
-      "default": "手动选择"
+      "default": "malsel"
     },
     {
       "type": "shadowsocks",
-      "tag": "香港",
+      "tag": "hongkong",
       "server": "abc.com",
       "server_port": 10001,
       "password": "fdc43e321a",
@@ -189,17 +189,17 @@
         "tag": "cnip",
         "format": "binary",
         "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/sing/geo-lite/geoip/cn.srs",
-        "download_detour": "自动选择"
+        "download_detour": "auto"
       },
       {
         "type": "remote",
         "tag": "cnsite",
         "format": "binary",
         "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/sing/geo-lite/geosite/cn.srs",
-        "download_detour": "自动选择"
+        "download_detour": "auto"
       }
     ],
     "auto_detect_interface": true,
-    "final": "手动选择"
+    "final": "malsel"
   }
 }
