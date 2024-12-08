@@ -157,7 +157,7 @@
         },
         {
           "clash_mode": "global",
-          "outbound": "GLOBAL"
+          "outbound": "proxy"
         },
         {
           "rule_set": [
